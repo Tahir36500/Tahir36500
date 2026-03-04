@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there 👋, I'm Tahir Sardar 👨‍💻</h1>
+  <p><b>Oracle EBS | ERP Solutions | IT Infrastructure & Security</b></p>
+  <p>📍 Okara, Pakistan | 🏢 OraDigitals</p>
 
-<!--
-**Tahir36500/Tahir36500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://linkedin.com/in/tahir-sardar-2b5208301" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tahirsardar788@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Technical Expertise
+
+**Oracle Ecosystem & ERP**<br/>
+<img src="https://img.shields.io/badge/Oracle_EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle EBS" />
+<img src="https://img.shields.io/badge/Oracle_Apex-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Apex" />
+<img src="https://img.shields.io/badge/Oracle_Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Forms" />
+<img src="https://img.shields.io/badge/Oracle_Reports-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Reports" />
+
+**IT Infrastructure & Security**<br/>
+<img src="https://img.shields.io/badge/Network_Security-Shield-green?style=for-the-badge&logo=fortinet&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/Firewall_Setup-E02020?style=for-the-badge&logo=pfsense&logoColor=white" alt="Firewall" />
+<img src="https://img.shields.io/badge/Virtualization-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtualization" />
+
+**Automation & Workflow**<br/>
+<img src="https://img.shields.io/badge/n8n_Integrations-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/SQL-Expert-CC6699?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
+
+<br/>
+
+### 🌱 Currently Exploring
+* Advanced Cloud Infrastructure Security
+* Complex Workflow Automations via n8n
+* Scaling Oracle EBS environments
+
+<br/>
+
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=tahir11223377&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Tahir's GitHub stats" />
+</p>
+
+---
+<div align="center">
+  <sub>"Building secure, scalable, and automated enterprise solutions."</sub>
+</div>
