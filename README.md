@@ -39,12 +39,18 @@
 
 <br/>
 
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tahir11223377&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Tahir's GitHub stats" />
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tahir36500&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahir36500&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
 <div align="center">
-  <sub>"Building secure, scalable, and automated enterprise solutions."</sub>
+  <sub>"Turning ideas into powerful mobile apps 🚀"</sub>
 </div>
